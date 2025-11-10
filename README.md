@@ -1,5 +1,4 @@
-#Audio/Video-Conferencing-Prototype[Full Stack project report audio video conderence.pdf](https://github.com/user-attachments/files/23453250/Full.Stack.project.report.audio.video.conderence.pdf)
-
+#Audio/Video-Conferencing-Prototype
 # React Video SDK 
 
 **Owner:** @raghava5758
