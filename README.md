@@ -1,11 +1,16 @@
-#Audio/Video-Conferencing-Prototype
+#Audio/Video-Conferencing-Prototype[Full Stack project report audio video conderence.pdf](https://github.com/user-attachments/files/23453250/Full.Stack.project.report.audio.video.conderence.pdf)
+
 # React Video SDK 
 
 **Owner:** @raghava5758
 
 This project is a React application demonstrating video conferencing features using **VideoSDK Live**. It includes support for meetings, screen sharing, chat, participant controls, and responsive UI styling with **Tailwind CSS**.
 
+#Report: [Full Stack project report audio video conderence.pdf](https://github.com/user-attachments/files/23453254/Full.Stack.project.report.audio.video.conderence.pdf)
+
+
 ## 🚀 Features
+
 - Join and create video meetings
 - Real-time audio/video streaming
 - Screen sharing support
